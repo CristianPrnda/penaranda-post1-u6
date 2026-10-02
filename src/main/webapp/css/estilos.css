@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; }
+table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td { border: 1px solid #ccc; padding: 8px 12px; }
+th { background: #065A82; color: white; }
+.error { color: #C62828; background: #FFEBEE; padding: 8px; }
+.completada { text-decoration: line-through; color: #808080; }
+form label { display: block; margin-bottom: 0.75rem; }
